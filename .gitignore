@@ -1,0 +1,18 @@
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars
+!example.auto.tfvars
+.terraformrc
+terraform.rc
+override.tf
+override.tf.json
+
+# Секреты
+key.json
+*-key.json
+*.pem
+id_rsa*
+id_ed25519*
