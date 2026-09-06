@@ -93,10 +93,10 @@ terraform output
 ```
 
 ```
-app_url        = "http://130.193.56.208"
-ssh_command    = "ssh -i ~/.yc-diploma/diploma_vm ubuntu@130.193.56.208"
-vm_external_ip = "130.193.56.208"
-vm_internal_ip = "10.10.0.32"
+app_url        = "http://81.26.185.75"
+ssh_command    = "ssh -i ~/.yc-diploma/diploma_vm ubuntu@81.26.185.75"
+vm_external_ip = "81.26.185.75"
+vm_internal_ip = "10.10.0.13"
 ```
 
 ---
